@@ -106,10 +106,6 @@ This produces:
 
 ![Topology example](assets/images/topology_example.png)
 
-### Matrix heatmaps (`P` and `L`)
-
-![Matrix heatmaps](assets/images/matrix_heatmaps.png)
-
 If images are missing, generate them with:
 
 ```powershell
